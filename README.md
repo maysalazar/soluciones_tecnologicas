@@ -1,0 +1,5 @@
+Python es un lenguaje de programación versátil y fácil de aprender, utilizado en diversas áreas como desarrollo web, automatización e inteligencia artificial. Su sintaxis clara y legible lo hace ideal para principiantes y expertos. En el desarrollo web, Django es uno de los frameworks más populares, ya que permite crear aplicaciones robustas de manera rápida y segura. Django sigue el patrón MTV (Model-Template-View) y ofrece herramientas integradas para la gestión de bases de datos, autenticación y administración.
+
+Cuando trabajamos con contenedores como Docker, podemos encapsular aplicaciones Django con todas sus dependencias, asegurando que funcionen de la misma manera en cualquier entorno. Para esto, se usa un Dockerfile donde se define la imagen con Python, Django y las configuraciones necesarias. También se usa docker-compose.yml para gestionar bases de datos y otros servicios.
+
+Ejecutar Django en contenedores facilita la escalabilidad y despliegue en plataformas como AWS, Google Cloud o Kubernetes. Con esta combinación, los desarrolladores pueden construir, probar y desplegar aplicaciones de manera eficiente y sin problemas de compatibilidad. 
